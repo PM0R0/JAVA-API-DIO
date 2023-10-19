@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\peter\OneDrive\Documentos\Dev\DIO\Java\Repositorio\Java-api\pratice\.metadata\.plugins\org.eclipse.jdt.core
